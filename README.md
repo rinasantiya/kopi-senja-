@@ -292,12 +292,7 @@ Melihat Katalog Menu  ──▶  Klik Detail Produk ──▶ Atur Jumlah ──
 
 ---
 
-## ⚠️ Catatan & Batasan
 
-- Seluruh transaksi dan pembayaran bersifat **simulasi**, tidak ada koneksi ke payment gateway sungguhan.
-- ID pengukuran Google Analytics (`GA_MEASUREMENT_ID`) masih berupa **placeholder** dan perlu diganti dengan ID asli bila ingin melacak trafik sungguhan.
-- Karena data tersimpan di `localStorage`, proyek ini cocok untuk **demo/simulasi/tugas akademik**, bukan untuk transaksi produksi nyata.
-- Disarankan menjalankan lewat *local server* (lihat [Cara Menjalankan Proyek](#-cara-menjalankan-proyek)) untuk pengalaman terbaik.
 
 ---
 
