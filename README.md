@@ -44,7 +44,7 @@ untuk mengelola menu serta pesanan — seluruhnya berjalan di sisi klien
 | Kelas | *ABI6*           |
 | Institusi      | *International Women University*           |
 | Link Website E-commerce | *https://rinasantiya.github.io/kopi-senja-/*  |
-| Link Youtube | * https://youtu.be/5a8FxXDDwrc?feature=shared                    |
+| Link Youtube |  https://youtu.be/5a8FxXDDwrc?feature=shared                    |
 | Link Github | *https://github.com/rinasantiya/kopi-senja-* |
 
 >
