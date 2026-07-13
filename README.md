@@ -37,12 +37,13 @@ untuk mengelola menu serta pesanan — seluruhnya berjalan di sisi klien
 | Keterangan     | Detail                                   |
 |----------------|-------------------------------------------|
 | Nama Proyek    | Kopi Senja — Website E-Commerce Kedai Kopi |
-| Nama Mahasiswa | *(isi nama Anda di sini)*                  |
-| NIM            | *(isi NIM Anda di sini)*                   |
-| Kelas / Semester | *(isi kelas Anda di sini)*                |
-| Mata Kuliah    | *(isi mata kuliah, mis. Pemrograman Web)*  |
-| Dosen Pengampu | *(isi nama dosen Anda di sini)*            |
-| Institusi      | *(isi nama kampus Anda di sini)*           |
+| Nama Mahasiswa | *Rina Santiya*                  |
+| NIM            | *209250151*                   |
+| Semester | *Genap 2025/2026*                |
+| Mata Kuliah    | *KOMPUTER APLIKASI IT II*  |
+| Kelas | *ABI6*           |
+| Institusi      | *International Women University*           |
+| link Website E-commerce | *                        *  |
 
 > ✏️ **Catatan:** Bagian identitas di atas masih berupa placeholder dan wajib
 > diisi sesuai data diri sebelum berkas ini dikumpulkan.
