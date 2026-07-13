@@ -43,10 +43,9 @@ untuk mengelola menu serta pesanan — seluruhnya berjalan di sisi klien
 | Mata Kuliah    | *KOMPUTER APLIKASI IT II*  |
 | Kelas | *ABI6*           |
 | Institusi      | *International Women University*           |
-| link Website E-commerce | *                        *  |
+| link Website E-commerce | * https://rinasantiya.github.io/kopi-senja-/ *  |
 
-> ✏️ **Catatan:** Bagian identitas di atas masih berupa placeholder dan wajib
-> diisi sesuai data diri sebelum berkas ini dikumpulkan.
+>
 
 ---
 
